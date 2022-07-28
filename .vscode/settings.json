@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/aefd7c31-9d3b-4298-bc7a-c0ab77e75b0c/resourceGroups/appsvc_linux_centralus_premium/providers/Microsoft.Web/sites/ussd-app",
+    "appService.deploySubpath": "."
+}
